@@ -4,6 +4,7 @@ key = Target Value
 sorted array for Binary Search
 O(logN) time comp.
 0(3) space comp.
+this function will return index of key or -1 if key not in the list
 """
 
 def binSearch(A,left,right,key):
